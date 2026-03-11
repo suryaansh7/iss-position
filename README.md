@@ -1,1 +1,1 @@
-# iss-position
+This project checks if the ISS location, that is, the location of the ISS, is close to our own latitude and longitude, and it also checks if it is dark or not. That is, this is done using the sunrise-sunset API on the internet. If both these conditions match, then an email is sent to the user using the SMTP library class. 
